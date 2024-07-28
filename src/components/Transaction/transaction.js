@@ -91,7 +91,7 @@ class Transaction extends Component{
                     </div>
                     <div className="input-div">
                         <label htmlFor="date">Date:</label>
-                        <input type='date' value={date.split('-').reverse().join('-')} onChange={this.onChangeDate} id="date" className="date-el"/>
+                        <input type='date' onChange={this.onChangeDate} id="date" className="date-el"/>
                     </div>
                     <div className="btns-container">
                         <button type="submit" className="save-btn"><FaRegSave className="icon"/> Save</button>
