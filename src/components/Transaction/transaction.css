@@ -1,0 +1,77 @@
+.save-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    width: 90px;
+    padding: 5px;
+    background-color: #6980f6;
+    color: white;
+    border: 0px solid #000;
+    border-radius: 7px;
+    cursor: pointer;
+}
+form{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 5px;
+    height: 100%;
+    padding: 30px;
+    justify-content: space-evenly;
+}
+.fill-heading{
+    align-self: center;
+}
+.transaction-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f1f3f5;
+    height: 100vh;
+}
+.icon{
+    width: 20px;
+    color: white;
+}
+.select-div{
+    display: flex;
+    align-items: center;
+}
+.btns-container{
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+    gap: 30px;
+}
+.input-el{
+    width: 600px;
+    height: 55px;
+}
+.area-el{
+    width: 700px;
+    height: 55px;
+}
+.cancel-btn{
+    width: 80px;
+    border: 0px solid;
+    background-color: #f84a4a;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    padding: 5px;
+    cursor: pointer;
+}
+.icon-cancel{
+    margin-right: 0px;
+    width: 20px;
+}
+.input-div{
+    display: flex;
+}

@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Backend Deployment Link
+
+This is Backend deployment Link used onrender https://assignment-backend-1-zw9g.onrender.com/transactions
+
+## Backend repository link
+
+This is Backend Git repository Link https://github.com/upenderdeshaboina/assignment-backend.git
+
+## Extra features of backend 
+
+Transactions can updatable check the repository to know more.
+
 ## Available Scripts
 
 In the project directory, you can run:
